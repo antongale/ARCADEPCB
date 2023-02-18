@@ -346,12 +346,12 @@
       "CPU PC 1 - SYNC BUS"
     ],
     [
-      "f8d918e2-0f41-4c39-b756-982e9a7e1ecd",
-      "CPU PC 2 - CHIP SELECTS"
-    ],
-    [
       "1c0fe9c3-eb19-4e84-be5d-d7feb6f2ac59",
       "CPU PC 3"
+    ],
+    [
+      "d57dfdd6-b676-4639-8d6e-124688b72dbb",
+      "CPU PC 4 - CPU"
     ]
   ],
   "text_variables": {}

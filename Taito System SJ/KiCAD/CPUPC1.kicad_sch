@@ -6768,7 +6768,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6fb5982f-35d5-4546-a330-34908e458efe)
     (property "Reference" "12MHZ" (id 0) (at 50.8 20.4048 0))
-    (property "Value" "Crystal" (id 1) (at 50.8 22.9417 0))
+    (property "Value" "X2" (id 1) (at 50.8 22.9417 0))
     (property "Footprint" "" (id 2) (at 50.8 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
