@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "TAITO SYSTEM SJ")
+    (company "ANTON GALE")
+  )
+
   (lib_symbols
     (symbol "AY-3-8910_1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U11G" (id 0) (at 0.635 28.9216 0)
