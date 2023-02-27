@@ -445,7 +445,7 @@
     ],
     [
       "d9bed36c-30f7-4a81-9afa-9d8880d46cee",
-      "Sound - CPU"
+      "Game Board - Sound CPU"
     ],
     [
       "d57dfdd6-b676-4639-8d6e-124688b72dbb",
@@ -453,11 +453,19 @@
     ],
     [
       "a0846401-3d48-4731-bb40-bafe49b0341f",
-      "Sound Chips"
+      "Game Board - Sound Chips"
     ],
     [
       "fad473d5-35ce-4062-bc39-167350124226",
-      "Sound Chips - IO"
+      "Game Board - IO"
+    ],
+    [
+      "71d40dc7-5268-4e5a-8439-e1b74013aee6",
+      "Game Board - Video Out"
+    ],
+    [
+      "131fb823-cf8a-415b-8f23-0150383b1390",
+      "Game Board - Hit Bus"
     ]
   ],
   "text_variables": {}
