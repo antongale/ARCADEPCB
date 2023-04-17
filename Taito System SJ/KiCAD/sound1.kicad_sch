@@ -5979,7 +5979,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 07daa5b8-37b1-413a-8dec-4005a353ecdf)
   )
-  (label "AB13" (at 367.03 396.24 180) (fields_autoplaced)
+  (label "AB15" (at 367.03 396.24 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 080bfc4d-fc73-4825-b04d-a810233a4b7d)
   )
@@ -6143,7 +6143,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5dcd8cd7-5504-4d33-829b-bcd067f3b67c)
   )
-  (label "AB12" (at 367.03 393.7 180) (fields_autoplaced)
+  (label "AB14" (at 367.03 393.7 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5e6a872d-b079-49d9-8d84-87e99c947d62)
   )
@@ -7288,10 +7288,10 @@
   (symbol (lib_id "jt74:74LS138") (at 386.08 388.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d15ed4f-7d2c-4e54-b438-6909c77995c5)
-    (property "Reference" "U?" (at 386.08 374.7602 0)
+    (property "Reference" "U60" (at 386.08 374.65 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS138" (at 386.08 377.2971 0)
+    (property "Value" "74LS138" (at 386.08 377.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 386.08 388.62 0)
@@ -7317,7 +7317,7 @@
     (instances
       (project "TAITOSJ"
         (path "/c9398d89-67dd-4ff5-9367-82e2b6879830/d9bed36c-30f7-4a81-9afa-9d8880d46cee"
-          (reference "U?") (unit 1)
+          (reference "U60") (unit 1)
         )
       )
     )
@@ -7965,10 +7965,10 @@
   (symbol (lib_id "jt74:74LS00") (at 421.64 358.14 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 867c13d3-67b5-4803-8f77-9da74c170056)
-    (property "Reference" "U?" (at 421.64 350.6302 0)
+    (property "Reference" "U39" (at 421.6317 350.52 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS00" (at 421.64 353.1671 0)
+    (property "Value" "74LS00" (at 421.6317 353.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 421.64 358.14 0)
@@ -7994,7 +7994,7 @@
     (instances
       (project "TAITOSJ"
         (path "/c9398d89-67dd-4ff5-9367-82e2b6879830/d9bed36c-30f7-4a81-9afa-9d8880d46cee"
-          (reference "U?") (unit 1)
+          (reference "U39") (unit 1)
         )
       )
     )
@@ -8318,10 +8318,10 @@
   (symbol (lib_id "jt74:74LS02") (at 421.64 372.11 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af6279fc-12e2-4014-8aa3-d4af716e6a29)
-    (property "Reference" "U?" (at 421.64 364.6002 0)
+    (property "Reference" "U37" (at 421.64 364.49 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS02" (at 421.64 367.1371 0)
+    (property "Value" "74LS02" (at 421.64 367.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 421.64 372.11 0)
@@ -8347,7 +8347,7 @@
     (instances
       (project "TAITOSJ"
         (path "/c9398d89-67dd-4ff5-9367-82e2b6879830/d9bed36c-30f7-4a81-9afa-9d8880d46cee"
-          (reference "U?") (unit 2)
+          (reference "U37") (unit 2)
         )
       )
     )
@@ -8382,10 +8382,10 @@
   (symbol (lib_id "jt74:74LS00") (at 441.96 360.68 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c4cc8938-0e4f-4986-be79-2bc2bcb9de57)
-    (property "Reference" "U?" (at 441.96 353.1702 0)
+    (property "Reference" "U39" (at 441.9517 353.06 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS00" (at 441.96 355.7071 0)
+    (property "Value" "74LS00" (at 441.9517 355.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 441.96 360.68 0)
@@ -8411,7 +8411,7 @@
     (instances
       (project "TAITOSJ"
         (path "/c9398d89-67dd-4ff5-9367-82e2b6879830/d9bed36c-30f7-4a81-9afa-9d8880d46cee"
-          (reference "U?") (unit 2)
+          (reference "U39") (unit 2)
         )
       )
     )

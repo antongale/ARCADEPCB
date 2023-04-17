@@ -1,4 +1,4 @@
-(kicad_sch (version 20211123) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid 52d2bdcb-2e3d-4d3f-9af2-a6cfd3954c1d)
 
@@ -11,16 +11,16 @@
 
   (lib_symbols
     (symbol "arcade:JAMMA_CONN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-      (property "Reference" "U" (id 0) (at 10.16 -8.89 90)
+      (property "Reference" "U" (at 10.16 -8.89 90)
         (effects (font (size 3.5052 3.5052)))
       )
-      (property "Value" "JAMMA_CONN" (id 1) (at 13.97 -10.16 90)
+      (property "Value" "JAMMA_CONN" (at 13.97 -10.16 90)
         (effects (font (size 2.0066 2.0066)))
       )
-      (property "Footprint" "" (id 2) (at 41.91 -284.48 0)
+      (property "Footprint" "" (at 41.91 -284.48 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "" (id 3) (at 41.91 -284.48 0)
+      (property "Datasheet" "" (at 41.91 -284.48 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "JAMMA_CONN_0_1"
@@ -40,7 +40,7 @@
             (xy 27.94 0)
             (xy 0 0)
           )
-          (stroke (width 0) (type default) (color 0 0 0 0))
+          (stroke (width 0) (type default))
           (fill (type background))
         )
       )
@@ -267,18 +267,18 @@
 
 
   (symbol (lib_id "arcade:JAMMA_CONN") (at 121.92 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa2672d3-c0b1-4384-bda7-04ff6c1dea3f)
-    (property "Reference" "S2_JAMMA" (id 0) (at 135.89 43.1274 0)
+    (property "Reference" "S2_JAMMA" (at 135.89 43.1274 0)
       (effects (font (size 3.5052 3.5052)))
     )
-    (property "Value" "JAMMA_CONN" (id 1) (at 135.89 48.3352 0)
+    (property "Value" "JAMMA_CONN" (at 135.89 48.3352 0)
       (effects (font (size 2.0066 2.0066)))
     )
-    (property "Footprint" "" (id 2) (at 163.83 334.01 0)
+    (property "Footprint" "" (at 163.83 334.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 163.83 334.01 0)
+    (property "Datasheet" "" (at 163.83 334.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 621058ec-4969-48af-b91d-e4efdd7291fb))
@@ -335,5 +335,12 @@
     (pin "d" (uuid 5a977079-b868-4ea2-ace7-3b1008a3fdb3))
     (pin "e" (uuid 852b05f8-3a0a-407d-80d9-ae94ca2adee6))
     (pin "f" (uuid e998ec5f-aa51-454a-b95e-7eb4021c2cec))
+    (instances
+      (project "SlapFight"
+        (path "/6286c0ee-8685-4b62-95b1-5567af06b7a4/4b425ccd-ec05-4338-bac8-d3d6e956141f"
+          (reference "S2_JAMMA") (unit 1)
+        )
+      )
+    )
   )
 )
