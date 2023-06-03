@@ -6096,7 +6096,7 @@
     (property "Reference" "U63" (at 386.08 58.42 0)
       (effects (font (size 1.2446 1.2446)))
     )
-    (property "Value" "AY-3-8910 (AY_4)" (at 386.08 60.96 0)
+    (property "Value" "AY-3-8910 (AY_0)" (at 386.08 60.96 0)
       (effects (font (size 1.2446 1.2446)))
     )
     (property "Footprint" "" (at 384.81 87.63 0)
