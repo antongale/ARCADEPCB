@@ -1,0 +1,206 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7)
+
+  (paper "A4")
+
+  (title_block
+    (title "Exidy Universal Game Board II")
+    (company "Anton Gale")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 177.8 63.5) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 37edb18f-1b53-4e89-9ff7-7fe9559f6cb3)
+    (property "Sheetname" "Targ Analog Audio" (at 177.8 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TAUDIO2.kicad_sch" (at 177.8 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 43fb6cb1-b1a3-4273-b478-1a7da05b5af9)
+    (property "Sheetname" "Sync and video generation" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "SyncVideo.kicad_sch" (at 25.4 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 63.5) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 536bb5e0-b64c-49da-9ce8-e2cc840576e4)
+    (property "Sheetname" "Moving Object Video Generation" (at 25.4 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MOVG.kicad_sch" (at 25.4 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 127 63.5) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5371d179-37a3-4006-9310-1375e43c1a8e)
+    (property "Sheetname" "Targ Audio" (at 127 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TAUDIO1.kicad_sch" (at 127 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "10"))
+      )
+    )
+  )
+
+  (sheet (at 177.8 25.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 553e0e4f-34e2-4b61-b277-86420dbb2cdc)
+    (property "Sheetname" "Program Memory" (at 177.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cpupmem.kicad_sch" (at 177.8 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 228.6 25.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 72ae4ec2-c44d-42aa-af08-c39391e5310f)
+    (property "Sheetname" "Moving Objects" (at 228.6 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MOBS.kicad_sch" (at 228.6 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 114.3) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7915541a-1915-4a89-89a3-19250294cd74)
+    (property "Sheetname" "Color Adapter" (at 25.4 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "coloradapter.kicad_sch" (at 25.4 140.2846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 127 25.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 810f4072-c26b-49ab-85cf-98a74de3abe0)
+    (property "Sheetname" "6502 Game Logic PCB" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "6502.kicad_sch" (at 127 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 63.5) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9a604252-ca50-4f05-ad16-ed996c86c3de)
+    (property "Sheetname" "IO PORTS" (at 76.2 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ioports.kicad_sch" (at 76.2 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 152.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bb31f509-33c5-4680-9c64-afeca509388f)
+    (property "Sheetname" "Enhanced Color & Audio Board" (at 25.4 151.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ECAB1.kicad_sch" (at 25.4 178.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "12"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 38.1 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bf372320-2088-4d08-ab44-6bd65f4d467f)
+    (property "Sheetname" "Video RAM Character Generator & Shift Register" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "VRAMCGEN.kicad_sch" (at 76.2 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "exidy2"
+        (path "/d19f6af5-c62c-4b3a-9ef9-d16f0857a7e7" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

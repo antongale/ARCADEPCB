@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jumper_2_open")(type "KiCad")(uri "C:/Users/Anton/Documents/GitHub/fpga/jtcores/modules/jtkicad/lib/jumper_2_open.kicad_sym")(options "")(descr ""))
+)
