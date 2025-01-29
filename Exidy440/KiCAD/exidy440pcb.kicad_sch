@@ -11,7 +11,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 25.4 63.5)
+		(at 127 25.4)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -23,7 +23,7 @@
 		)
 		(uuid "615284af-ead5-4727-987d-b2cdce025322")
 		(property "Sheetname" "Master Control"
-			(at 25.4 62.7884 0)
+			(at 127 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Sheetfile" "mastercontrol.kicad_sch"
-			(at 25.4 89.4846 0)
+			(at 127 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,7 +49,7 @@
 		)
 	)
 	(sheet
-		(at 127 63.5)
+		(at 76.2 25.4)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -61,7 +61,7 @@
 		)
 		(uuid "66782ee6-80bd-45c8-871d-08fd7a7fbcde")
 		(property "Sheetname" "Linebuffer"
-			(at 127 62.7884 0)
+			(at 76.2 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70,7 +70,7 @@
 			)
 		)
 		(property "Sheetfile" "vidram.kicad_sch"
-			(at 127 89.4846 0)
+			(at 76.2 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,7 +87,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 63.5)
+		(at 228.6 25.4)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -99,7 +99,7 @@
 		)
 		(uuid "75abebc8-bebd-41c9-ad92-65722dab24dd")
 		(property "Sheetname" "Video Out"
-			(at 177.8 62.7884 0)
+			(at 228.6 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,7 +108,7 @@
 			)
 		)
 		(property "Sheetfile" "video.kicad_sch"
-			(at 177.8 89.4846 0)
+			(at 228.6 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,7 +163,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 63.5)
+		(at 177.8 25.4)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -175,7 +175,7 @@
 		)
 		(uuid "9abcac90-1983-4d1c-b047-08d48410c941")
 		(property "Sheetname" "CPU & Memory"
-			(at 76.2 62.7884 0)
+			(at 177.8 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -184,7 +184,7 @@
 			)
 		)
 		(property "Sheetfile" "cpumem.kicad_sch"
-			(at 76.2 89.4846 0)
+			(at 177.8 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
