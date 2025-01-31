@@ -11,7 +11,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 127 25.4)
+		(at 25.4 88.9)
 		(size 38.1 25.4)
 		(fields_autoplaced yes)
 		(stroke
@@ -21,9 +21,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "615284af-ead5-4727-987d-b2cdce025322")
-		(property "Sheetname" "Master Control"
-			(at 127 24.6884 0)
+		(uuid "3fd7af43-9851-4214-bd3c-e0b77c4a0423")
+		(property "Sheetname" "Audio Board & IO PCB"
+			(at 25.4 88.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,8 +31,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "mastercontrol.kicad_sch"
-			(at 127 51.3846 0)
+		(property "Sheetfile" "audioio.kicad_sch"
+			(at 25.4 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43,14 +43,14 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb"
-					(page "3")
+					(page "AIDX")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 76.2 25.4)
-		(size 38.1 25.4)
+		(at 25.4 57.15)
+		(size 39.37 25.4)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -59,9 +59,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "66782ee6-80bd-45c8-871d-08fd7a7fbcde")
-		(property "Sheetname" "Linebuffer"
-			(at 76.2 24.6884 0)
+		(uuid "474351ca-508f-48f5-8378-01887b7dd36b")
+		(property "Sheetname" "Logic & Video PCB"
+			(at 25.4 56.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69,8 +69,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "vidram.kicad_sch"
-			(at 76.2 51.3846 0)
+		(property "Sheetfile" "logicvideo.kicad_sch"
+			(at 25.4 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81,128 +81,14 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 228.6 25.4)
-		(size 38.1 25.4)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "75abebc8-bebd-41c9-ad92-65722dab24dd")
-		(property "Sheetname" "Video Out"
-			(at 228.6 24.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "video.kicad_sch"
-			(at 228.6 51.3846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "exidy440pcb"
-				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 25.4 25.4)
-		(size 38.1 25.4)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "98205073-014e-4b9d-812d-fa6806431ece")
-		(property "Sheetname" "Video RAM"
-			(at 25.4 24.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "vramseq.kicad_sch"
-			(at 25.4 51.3846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "exidy440pcb"
-				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb"
-					(page "1")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 177.8 25.4)
-		(size 38.1 25.4)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9abcac90-1983-4d1c-b047-08d48410c941")
-		(property "Sheetname" "CPU & Memory"
-			(at 177.8 24.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "cpumem.kicad_sch"
-			(at 177.8 51.3846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "exidy440pcb"
-				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb"
-					(page "4")
+					(page "LIDX")
 				)
 			)
 		)
 	)
 	(sheet_instances
 		(path "/"
-			(page "0")
+			(page "440IDX")
 		)
 	)
 )

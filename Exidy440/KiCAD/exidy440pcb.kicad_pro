@@ -403,24 +403,40 @@
       "Root"
     ],
     [
-      "98205073-014e-4b9d-812d-fa6806431ece",
+      "63b7cd6e-0d72-49fd-a4ed-b6020130586b",
+      "Audio PCB - Sheet 1"
+    ],
+    [
+      "3fd7af43-9851-4214-bd3c-e0b77c4a0423",
+      "Audio Board & IO PCB"
+    ],
+    [
+      "4b601704-3be3-4344-964b-9605c7e9a57f",
       "Video RAM"
     ],
     [
-      "66782ee6-80bd-45c8-871d-08fd7a7fbcde",
-      "Linebuffer"
-    ],
-    [
-      "615284af-ead5-4727-987d-b2cdce025322",
-      "Master Control"
-    ],
-    [
-      "9abcac90-1983-4d1c-b047-08d48410c941",
+      "87052143-2c62-453c-9aff-4872fb040982",
       "CPU & Memory"
     ],
     [
-      "75abebc8-bebd-41c9-ad92-65722dab24dd",
+      "6af27941-8671-4138-9e96-f63c681bb47c",
+      "Linebuffer"
+    ],
+    [
+      "2ee1afc5-deec-4c1a-89bd-ae3f6939b2a4",
+      "Master Control"
+    ],
+    [
+      "6bec8b70-261d-4979-b329-e9ce3670fddd",
       "Video Out"
+    ],
+    [
+      "9bf516e2-7dd2-4a62-a5ce-450547f29d18",
+      "Rom Bank"
+    ],
+    [
+      "474351ca-508f-48f5-8378-01887b7dd36b",
+      "Logic & Video PCB"
     ]
   ],
   "text_variables": {}

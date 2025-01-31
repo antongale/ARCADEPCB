@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "428d4f26-35fa-4ba6-ad48-fdc423075a09")
+	(paper "A4")
+	(title_block
+		(title "Exidy 440")
+		(company "Exidy")
+		(comment 1 "Anton Gale")
+	)
+	(lib_symbols)
+	(sheet
+		(at 127 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ee1afc5-deec-4c1a-89bd-ae3f6939b2a4")
+		(property "Sheetname" "Master Control"
+			(at 127 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mastercontrol.kicad_sch"
+			(at 127 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b601704-3be3-4344-964b-9605c7e9a57f")
+		(property "Sheetname" "Video RAM"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vramseq.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6af27941-8671-4138-9e96-f63c681bb47c")
+		(property "Sheetname" "Linebuffer"
+			(at 76.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vidram.kicad_sch"
+			(at 76.2 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6bec8b70-261d-4979-b329-e9ce3670fddd")
+		(property "Sheetname" "Video Out"
+			(at 228.6 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "video.kicad_sch"
+			(at 228.6 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "87052143-2c62-453c-9aff-4872fb040982")
+		(property "Sheetname" "CPU & Memory"
+			(at 177.8 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpumem.kicad_sch"
+			(at 177.8 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 63.5)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9bf516e2-7dd2-4a62-a5ce-450547f29d18")
+		(property "Sheetname" "Rom Bank"
+			(at 25.4 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rombank.kicad_sch"
+			(at 25.4 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b"
+					(page "L6")
+				)
+			)
+		)
+	)
+)

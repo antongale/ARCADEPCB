@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "883ad78c-bd1d-404b-b8ca-4ae0611fec43")
+	(paper "A4")
+	(title_block
+		(title "Exidy 440")
+		(company "Exidy")
+		(comment 1 "Anton Gale")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 25.4)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "63b7cd6e-0d72-49fd-a4ed-b6020130586b")
+		(property "Sheetname" "Audio PCB - Sheet 1"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "4CHDM1.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "exidy440pcb"
+				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/3fd7af43-9851-4214-bd3c-e0b77c4a0423"
+					(page "A1")
+				)
+			)
+		)
+	)
+)
