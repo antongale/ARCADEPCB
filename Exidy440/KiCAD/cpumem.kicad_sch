@@ -29708,6 +29708,16 @@
 		)
 		(uuid "35fd3981-9019-4463-9ac2-206458f8910b")
 	)
+	(label "MPUCLK"
+		(at 492.76 379.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "365cab91-f43e-47f9-aebc-41c2b9db2e2b")
+	)
 	(label "A9"
 		(at 431.8 60.96 180)
 		(effects
