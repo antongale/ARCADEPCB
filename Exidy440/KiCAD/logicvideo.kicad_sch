@@ -136,7 +136,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "6bec8b70-261d-4979-b329-e9ce3670fddd")
-		(property "Sheetname" "Video Out"
+		(property "Sheetname" "Power Connector & Video Out"
 			(at 228.6 24.6884 0)
 			(effects
 				(font
