@@ -21642,7 +21642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06e1fd4a-3846-41c4-8306-bfb2f8550001")
-		(property "Reference" "U17L?"
+		(property "Reference" "U17L"
 			(at 443.23 226.06 0)
 			(effects
 				(font
@@ -21742,7 +21742,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U17L?")
+					(reference "U17L")
 					(unit 1)
 				)
 			)
@@ -21890,7 +21890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0da3a11e-2265-4fbf-a6bd-0eedb9aa75c7")
-		(property "Reference" "U13L?"
+		(property "Reference" "U13L"
 			(at 314.96 302.26 0)
 			(effects
 				(font
@@ -21978,7 +21978,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U13L?")
+					(reference "U13L")
 					(unit 1)
 				)
 			)
@@ -21995,7 +21995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16b07bab-78bd-420c-9a31-2e5f172aaded")
-		(property "Reference" "U14L?"
+		(property "Reference" "U14L"
 			(at 257.4641 127 0)
 			(effects
 				(font
@@ -22097,7 +22097,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U14L?")
+					(reference "U14L")
 					(unit 1)
 				)
 			)
@@ -22113,7 +22113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a2fa8a6-d1e8-47e1-aed1-c72e3010388b")
-		(property "Reference" "U16K?"
+		(property "Reference" "U16K"
 			(at 318.77 226.06 0)
 			(effects
 				(font
@@ -22219,7 +22219,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U16K?")
+					(reference "U16K")
 					(unit 1)
 				)
 			)
@@ -22236,7 +22236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1af6ecf9-238b-4a28-8148-c93150bc4782")
-		(property "Reference" "U2L?"
+		(property "Reference" "U2L"
 			(at 443.23 265.43 0)
 			(effects
 				(font
@@ -22324,7 +22324,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U2L?")
+					(reference "U2L")
 					(unit 2)
 				)
 			)
@@ -22538,7 +22538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "283a4c6e-7a91-4145-9316-89d4bc0eeaec")
-		(property "Reference" "U18A?"
+		(property "Reference" "U18A"
 			(at 88.9 157.48 0)
 			(effects
 				(font
@@ -22626,7 +22626,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U18A?")
+					(reference "U18A")
 					(unit 1)
 				)
 			)
@@ -22841,7 +22841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3af430cb-73fa-40fc-ae74-603006ce5e0a")
-		(property "Reference" "U11K?"
+		(property "Reference" "U11K"
 			(at 179.07 115.57 0)
 			(effects
 				(font
@@ -22929,7 +22929,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U11K?")
+					(reference "U11K")
 					(unit 1)
 				)
 			)
@@ -22945,7 +22945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ef640a3-07f9-41c3-ba28-f1b2d6abc90b")
-		(property "Reference" "U19A?"
+		(property "Reference" "U19A"
 			(at 88.9 114.3 0)
 			(effects
 				(font
@@ -23033,7 +23033,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U19A?")
+					(reference "U19A")
 					(unit 1)
 				)
 			)
@@ -23049,7 +23049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fd4c861-66ad-41d1-9bda-07f8ee81fa4b")
-		(property "Reference" "U10J?"
+		(property "Reference" "U10J"
 			(at 469.5541 292.1 0)
 			(effects
 				(font
@@ -23139,7 +23139,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U10J?")
+					(reference "U10J")
 					(unit 1)
 				)
 			)
@@ -23293,7 +23293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "466986cc-6e75-40b2-b7aa-b85cbfe658c9")
-		(property "Reference" "U13K?"
+		(property "Reference" "U13K"
 			(at 255.27 77.47 0)
 			(effects
 				(font
@@ -23387,7 +23387,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U13K?")
+					(reference "U13K")
 					(unit 1)
 				)
 			)
@@ -23403,7 +23403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4aaaf795-7eb3-4737-861d-c1af3f15be4d")
-		(property "Reference" "U5J?"
+		(property "Reference" "U5J"
 			(at 127 130.81 0)
 			(effects
 				(font
@@ -23491,7 +23491,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U5J?")
+					(reference "U5J")
 					(unit 6)
 				)
 			)
@@ -23573,7 +23573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "544fd649-3396-46ab-9532-79ef0fe4bdd8")
-		(property "Reference" "U21A?"
+		(property "Reference" "U21A"
 			(at 88.9 30.48 0)
 			(effects
 				(font
@@ -23661,7 +23661,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U21A?")
+					(reference "U21A")
 					(unit 1)
 				)
 			)
@@ -24079,7 +24079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68db8d71-ed6e-431f-87e2-3ff10305e148")
-		(property "Reference" "U22A?"
+		(property "Reference" "U22A"
 			(at 166.37 224.79 0)
 			(effects
 				(font
@@ -24173,7 +24173,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U22A?")
+					(reference "U22A")
 					(unit 1)
 				)
 			)
@@ -24255,7 +24255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f090bbf-291d-48a5-9a76-773d09fd83b6")
-		(property "Reference" "U14K?"
+		(property "Reference" "U14K"
 			(at 255.27 179.07 0)
 			(effects
 				(font
@@ -24349,7 +24349,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U14K?")
+					(reference "U14K")
 					(unit 1)
 				)
 			)
@@ -24365,7 +24365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f5dd9cb-4e8d-42aa-80eb-0933909f6b65")
-		(property "Reference" "U15L?"
+		(property "Reference" "U15L"
 			(at 387.0041 227.33 0)
 			(effects
 				(font
@@ -24467,7 +24467,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U15L?")
+					(reference "U15L")
 					(unit 1)
 				)
 			)
@@ -24681,7 +24681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d9d845d-3b3a-4ace-8a59-6c25a85a73af")
-		(property "Reference" "U11J?"
+		(property "Reference" "U11J"
 			(at 443.23 293.37 0)
 			(effects
 				(font
@@ -24769,7 +24769,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U11J?")
+					(reference "U11J")
 					(unit 4)
 				)
 			)
@@ -24786,7 +24786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f795098-c251-466f-9bc2-336c85270052")
-		(property "Reference" "U22F?"
+		(property "Reference" "U22F"
 			(at 101.5917 311.15 0)
 			(effects
 				(font
@@ -24874,7 +24874,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U22F?")
+					(reference "U22F")
 					(unit 1)
 				)
 			)
@@ -24890,7 +24890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84e426a5-f668-412f-a774-2879d1c1baf3")
-		(property "Reference" "U9K?"
+		(property "Reference" "U9K"
 			(at 179.07 29.21 0)
 			(effects
 				(font
@@ -24978,7 +24978,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U9K?")
+					(reference "U9K")
 					(unit 1)
 				)
 			)
@@ -24994,7 +24994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b3908ab-6a45-436c-9fb2-8e552ac608df")
-		(property "Reference" "U17K?"
+		(property "Reference" "U17K"
 			(at 387.0041 288.29 0)
 			(effects
 				(font
@@ -25102,7 +25102,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U17K?")
+					(reference "U17K")
 					(unit 1)
 				)
 			)
@@ -25118,7 +25118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d74fa8d-cdee-4068-a862-d183321244ec")
-		(property "Reference" "U16L?"
+		(property "Reference" "U16L"
 			(at 387.0041 167.64 0)
 			(effects
 				(font
@@ -25220,7 +25220,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U16L?")
+					(reference "U16L")
 					(unit 1)
 				)
 			)
@@ -25501,7 +25501,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcd1ac40-4a8d-4bf6-9e26-3affcc711a5c")
-		(property "Reference" "U23H?"
+		(property "Reference" "U23H"
 			(at 52.07 381 0)
 			(effects
 				(font
@@ -25589,7 +25589,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U23H?")
+					(reference "U23H")
 					(unit 1)
 				)
 			)
@@ -25671,7 +25671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5b4c754-3e66-43eb-a12b-13df2dfb5014")
-		(property "Reference" "U10L?"
+		(property "Reference" "U10L"
 			(at 341.63 267.97 0)
 			(effects
 				(font
@@ -25759,7 +25759,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U10L?")
+					(reference "U10L")
 					(unit 1)
 				)
 			)
@@ -25775,7 +25775,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c762286c-bd58-4cc3-9d9b-591346a46d07")
-		(property "Reference" "U15K?"
+		(property "Reference" "U15K"
 			(at 318.77 168.91 0)
 			(effects
 				(font
@@ -25875,7 +25875,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U15K?")
+					(reference "U15K")
 					(unit 1)
 				)
 			)
@@ -26094,7 +26094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d55891ac-6ef1-454c-9a18-89b3b8a414bb")
-		(property "Reference" "U10K?"
+		(property "Reference" "U10K"
 			(at 179.07 72.39 0)
 			(effects
 				(font
@@ -26182,7 +26182,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U10K?")
+					(reference "U10K")
 					(unit 1)
 				)
 			)
@@ -26198,7 +26198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7ee2920-ba46-409a-9d7c-2dd9bad6f49e")
-		(property "Reference" "U18L?"
+		(property "Reference" "U18L"
 			(at 516.5441 226.06 0)
 			(effects
 				(font
@@ -26306,7 +26306,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U18L?")
+					(reference "U18L")
 					(unit 1)
 				)
 			)
@@ -26322,7 +26322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df64a189-882a-462f-ba4a-3e1796a699ab")
-		(property "Reference" "U23D?"
+		(property "Reference" "U23D"
 			(at 123.1817 246.38 0)
 			(effects
 				(font
@@ -26410,7 +26410,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U23D?")
+					(reference "U23D")
 					(unit 4)
 				)
 			)
@@ -26425,7 +26425,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2c29399-7dba-4a97-b7da-9a754dc08ba8")
-		(property "Reference" "(4X)?"
+		(property "Reference" "(4X)"
 			(at 243.84 72.3899 0)
 			(effects
 				(font
@@ -26479,7 +26479,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "(4X)?")
+					(reference "(4X)")
 					(unit 1)
 				)
 			)
@@ -26693,7 +26693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f33b2685-603e-4577-a0ee-7a995dea2bc9")
-		(property "Reference" "U23C?"
+		(property "Reference" "U23C"
 			(at 123.19 262.89 0)
 			(effects
 				(font
@@ -26781,7 +26781,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U23C?")
+					(reference "U23C")
 					(unit 6)
 				)
 			)
@@ -26797,7 +26797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6af9ab5-b45a-488a-86e1-bfe5e0264af2")
-		(property "Reference" "U18K?"
+		(property "Reference" "U18K"
 			(at 516.5441 165.1 0)
 			(effects
 				(font
@@ -26905,7 +26905,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U18K?")
+					(reference "U18K")
 					(unit 1)
 				)
 			)
@@ -26988,7 +26988,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb9c81f2-b647-4e35-8bdb-b5b7275849bc")
-		(property "Reference" "U23F?"
+		(property "Reference" "U23F"
 			(at 214.63 359.41 0)
 			(effects
 				(font
@@ -27076,7 +27076,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U23F?")
+					(reference "U23F")
 					(unit 1)
 				)
 			)
@@ -27093,7 +27093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbff3e4d-4bc3-4579-ac62-6fadf4bd0c49")
-		(property "Reference" "U10L?"
+		(property "Reference" "U10L"
 			(at 487.68 280.67 0)
 			(effects
 				(font
@@ -27181,7 +27181,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U10L?")
+					(reference "U10L")
 					(unit 2)
 				)
 			)
@@ -27197,7 +27197,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fccff7c3-d544-4a9b-b4d0-215adfaf2d38")
-		(property "Reference" "U22H?"
+		(property "Reference" "U22H"
 			(at 52.07 336.55 0)
 			(effects
 				(font
@@ -27285,7 +27285,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U22H?")
+					(reference "U22H")
 					(unit 1)
 				)
 			)
@@ -27301,7 +27301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff73c18c-948e-4a2c-928d-3e00019fca6a")
-		(property "Reference" "U20A?"
+		(property "Reference" "U20A"
 			(at 88.9 72.39 0)
 			(effects
 				(font
@@ -27389,7 +27389,7 @@
 		(instances
 			(project "exidy440pcb"
 				(path "/ee9ca5df-edb9-4677-bdcd-afd3abb310eb/474351ca-508f-48f5-8378-01887b7dd36b/6af27941-8671-4138-9e96-f63c681bb47c"
-					(reference "U20A?")
+					(reference "U20A")
 					(unit 1)
 				)
 			)
