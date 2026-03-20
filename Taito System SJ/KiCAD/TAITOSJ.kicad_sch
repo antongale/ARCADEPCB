@@ -1,257 +1,648 @@
-(kicad_sch (version 20230121) (generator eeschema)
-
-  (uuid c9398d89-67dd-4ff5-9367-82e2b6879830)
-
-  (paper "B")
-
-  (title_block
-    (title "TAITO SYSTEM SJ")
-    (company "ANTON GALE")
-  )
-
-  (lib_symbols
-  )
-
-
-  (sheet (at 228.6 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 131fb823-cf8a-415b-8f23-0150383b1390)
-    (property "Sheetname" "Game Board - Hit Bus" (at 228.6 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "game5.kicad_sch" (at 228.6 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "15"))
-      )
-    )
-  )
-
-  (sheet (at 76.2 101.6) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 1c0fe9c3-eb19-4e84-be5d-d7feb6f2ac59)
-    (property "Sheetname" "CPU PC 3" (at 76.2 100.8884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "CPUPC3.kicad_sch" (at 76.2 127.5846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "9"))
-      )
-    )
-  )
-
-  (sheet (at 76.2 25.4) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 34ec39bd-d7df-4ca2-9130-4c3bb5b8903a)
-    (property "Sheetname" "ROMBOARD - 5 BOARD SYSTEM" (at 76.2 24.6884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "ROMBOARD5.kicad_sch" (at 76.2 51.3846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "3"))
-      )
-    )
-  )
-
-  (sheet (at 25.4 101.6) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 4965ed65-3406-4c92-8365-069f7161183c)
-    (property "Sheetname" "CPU PC 1 - SYNC BUS" (at 25.4 100.8884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "CPUPC1.kicad_sch" (at 25.4 127.5846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "7"))
-      )
-    )
-  )
-
-  (sheet (at 24.13 25.4) (size 39.37 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 5073d3e4-fb84-4a25-8d13-c7cd58adaa89)
-    (property "Sheetname" "ROMBOARD - 4 BOARD SYSTEM" (at 24.13 24.6884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "ROMBOARD.kicad_sch" (at 24.13 51.3846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 279.4 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 6b981f8b-5938-4838-8f6e-30c645418e16)
-    (property "Sheetname" "Game Board" (at 279.4 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "game6.kicad_sch" (at 279.4 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "15"))
-      )
-    )
-  )
-
-  (sheet (at 25.4 63.5) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 70119680-cacf-46d5-9768-3ae58e75c86a)
-    (property "Sheetname" "Video Board 1" (at 25.4 62.7884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "VB1.kicad_sch" (at 25.4 89.4846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 177.8 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 71d40dc7-5268-4e5a-8439-e1b74013aee6)
-    (property "Sheetname" "Game Board - Video Out" (at 177.8 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "game4.kicad_sch" (at 177.8 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "14"))
-      )
-    )
-  )
-
-  (sheet (at 76.2 63.5) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 9e154aad-3000-4936-82fd-a52b2906b815)
-    (property "Sheetname" "Video Board 2" (at 76.2 62.7884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "VB2.kicad_sch" (at 76.2 89.4846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "5"))
-      )
-    )
-  )
-
-  (sheet (at 76.2 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid a0846401-3d48-4731-bb40-bafe49b0341f)
-    (property "Sheetname" "Game Board - Sound Chips" (at 76.2 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "game2.kicad_sch" (at 76.2 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "12"))
-      )
-    )
-  )
-
-  (sheet (at 127 101.6) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid d57dfdd6-b676-4639-8d6e-124688b72dbb)
-    (property "Sheetname" "CPU PC 4 - CPU" (at 127 100.8884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "CPUPC4.kicad_sch" (at 127 127.5846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "10"))
-      )
-    )
-  )
-
-  (sheet (at 25.4 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid d9bed36c-30f7-4a81-9afa-9d8880d46cee)
-    (property "Sheetname" "Game Board - Sound CPU" (at 25.4 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "sound1.kicad_sch" (at 25.4 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "11"))
-      )
-    )
-  )
-
-  (sheet (at 127 63.5) (size 38.1 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid fa5496c1-bb75-4748-8ec7-34a2f42bf7c1)
-    (property "Sheetname" "Video Board 3" (at 127 62.7884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "VB3.kicad_sch" (at 127 88.2146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "6"))
-      )
-    )
-  )
-
-  (sheet (at 127 139.7) (size 38.1 25.4) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid fad473d5-35ce-4062-bc39-167350124226)
-    (property "Sheetname" "Game Board - IO" (at 127 138.9884 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "game3.kicad_sch" (at 127 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "TAITOSJ"
-        (path "/c9398d89-67dd-4ff5-9367-82e2b6879830" (page "13"))
-      )
-    )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c9398d89-67dd-4ff5-9367-82e2b6879830")
+	(paper "B")
+	(title_block
+		(title "TAITO SYSTEM SJ")
+		(company "ANTON GALE")
+	)
+	(lib_symbols)
+	(sheet
+		(at 228.6 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "131fb823-cf8a-415b-8f23-0150383b1390")
+		(property "Sheetname" "Game Board - Hit Bus"
+			(at 228.6 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "game5.kicad_sch"
+			(at 228.6 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c0fe9c3-eb19-4e84-be5d-d7feb6f2ac59")
+		(property "Sheetname" "CPU PC 3"
+			(at 76.2 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPUPC3.kicad_sch"
+			(at 76.2 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34ec39bd-d7df-4ca2-9130-4c3bb5b8903a")
+		(property "Sheetname" "ROMBOARD - 5 BOARD SYSTEM"
+			(at 76.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ROMBOARD5.kicad_sch"
+			(at 76.2 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4965ed65-3406-4c92-8365-069f7161183c")
+		(property "Sheetname" "CPU PC 1 - SYNC BUS"
+			(at 25.4 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPUPC1.kicad_sch"
+			(at 25.4 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 25.4)
+		(size 39.37 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5073d3e4-fb84-4a25-8d13-c7cd58adaa89")
+		(property "Sheetname" "ROMBOARD - 4 BOARD SYSTEM"
+			(at 24.13 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ROMBOARD.kicad_sch"
+			(at 24.13 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 279.4 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6b981f8b-5938-4838-8f6e-30c645418e16")
+		(property "Sheetname" "Game Board"
+			(at 279.4 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "game6.kicad_sch"
+			(at 279.4 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 63.5)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "70119680-cacf-46d5-9768-3ae58e75c86a")
+		(property "Sheetname" "Video Board 1"
+			(at 25.4 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VB1.kicad_sch"
+			(at 25.4 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "71d40dc7-5268-4e5a-8439-e1b74013aee6")
+		(property "Sheetname" "Game Board - Video Out"
+			(at 177.8 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "game4.kicad_sch"
+			(at 177.8 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 63.5)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9e154aad-3000-4936-82fd-a52b2906b815")
+		(property "Sheetname" "Video Board 2"
+			(at 76.2 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VB2.kicad_sch"
+			(at 76.2 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0846401-3d48-4731-bb40-bafe49b0341f")
+		(property "Sheetname" "Game Board - Sound Chips"
+			(at 76.2 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "game2.kicad_sch"
+			(at 76.2 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce060135-64d5-4ff3-9d7c-0ec74b0a923a")
+		(property "Sheetname" "MCU"
+			(at 177.8 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 177.8 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 101.6)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d57dfdd6-b676-4639-8d6e-124688b72dbb")
+		(property "Sheetname" "CPU PC 4 - CPU"
+			(at 127 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPUPC4.kicad_sch"
+			(at 127 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d9bed36c-30f7-4a81-9afa-9d8880d46cee")
+		(property "Sheetname" "Game Board - Sound CPU"
+			(at 25.4 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sound1.kicad_sch"
+			(at 25.4 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 63.5)
+		(size 38.1 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fa5496c1-bb75-4748-8ec7-34a2f42bf7c1")
+		(property "Sheetname" "Video Board 3"
+			(at 127 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VB3.kicad_sch"
+			(at 127 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 139.7)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fad473d5-35ce-4062-bc39-167350124226")
+		(property "Sheetname" "Game Board - IO"
+			(at 127 138.9884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "game3.kicad_sch"
+			(at 127 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
