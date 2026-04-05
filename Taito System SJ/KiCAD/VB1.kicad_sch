@@ -37020,7 +37020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cc284d4-74b7-43b0-a819-e204e523a91d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0116"
 			(at 302.26 229.87 0)
 			(effects
 				(font
@@ -37070,7 +37070,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -37865,7 +37865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1db56fdb-aed4-4110-8a1c-3adbc9b4ef97")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0126"
 			(at 431.8 434.34 0)
 			(effects
 				(font
@@ -37915,7 +37915,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -38889,7 +38889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ffc8ce-f86b-40d8-a098-ceecf337b014")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0129"
 			(at 300.99 496.57 0)
 			(effects
 				(font
@@ -38938,7 +38938,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -39162,7 +39162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "407255d9-ddb5-4147-9cef-f7de394d930c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0118"
 			(at 302.26 651.51 0)
 			(effects
 				(font
@@ -39211,7 +39211,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -39227,7 +39227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "439b776d-9f71-4d28-9670-42b0ffdf54c0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0123"
 			(at 302.26 702.31 0)
 			(effects
 				(font
@@ -39277,7 +39277,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -39887,7 +39887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51b9da16-1982-4ec6-b7fa-102ddced1d75")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0112"
 			(at 363.22 419.1 0)
 			(effects
 				(font
@@ -39936,7 +39936,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -40055,7 +40055,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a735d32-0f80-43e5-a39a-18c8d43052f8")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0121"
 			(at 309.88 811.53 0)
 			(effects
 				(font
@@ -40105,7 +40105,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -40501,7 +40501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ddd7db2-bf63-42e7-ab5b-f9b9a9f30962")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0119"
 			(at 370.84 759.46 0)
 			(effects
 				(font
@@ -40550,7 +40550,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -40669,7 +40669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6574ff24-1c62-439e-9476-6b1d10f688f7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0120"
 			(at 387.35 765.81 0)
 			(effects
 				(font
@@ -40718,7 +40718,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -40734,7 +40734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6683a752-e0f5-4a2a-a2da-64b5b23e858d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0131"
 			(at 494.03 709.93 0)
 			(effects
 				(font
@@ -40783,7 +40783,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -40799,7 +40799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66d102f0-2f7b-4e27-9821-0355ab35c437")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0114"
 			(at 302.26 179.07 0)
 			(effects
 				(font
@@ -40848,7 +40848,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -41301,7 +41301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76009177-3ea4-4670-ac8b-8966cc38497a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0130"
 			(at 494.03 647.7 0)
 			(effects
 				(font
@@ -41350,7 +41350,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -42809,7 +42809,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9953be6c-b53b-4d98-8431-7d323ded4a41")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0124"
 			(at 494.03 584.2 0)
 			(effects
 				(font
@@ -42858,7 +42858,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -42874,7 +42874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99f991cf-f506-42b5-b92d-04d96a62ba2e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0127"
 			(at 149.86 683.26 0)
 			(effects
 				(font
@@ -42923,7 +42923,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -43372,7 +43372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af0bf1ff-e7dc-4387-b9b5-3ed83a567713")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0125"
 			(at 431.8 500.38 0)
 			(effects
 				(font
@@ -43421,7 +43421,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -43759,7 +43759,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b85d8144-4980-4ad5-bbb0-010c0a2e240a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0115"
 			(at 300.99 260.35 0)
 			(effects
 				(font
@@ -43808,7 +43808,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -44163,7 +44163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf163aa4-a47f-467c-9eda-183b62108db2")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0117"
 			(at 363.22 182.88 0)
 			(effects
 				(font
@@ -44212,7 +44212,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -44544,7 +44544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7fe3cbc-9de2-4227-9cd5-bdbdd24b286c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0128"
 			(at 302.26 466.09 0)
 			(effects
 				(font
@@ -44594,7 +44594,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -45272,7 +45272,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eef1a728-e110-450e-8f0c-f50de7e14972")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0113"
 			(at 302.26 415.29 0)
 			(effects
 				(font
@@ -45321,7 +45321,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -45550,7 +45550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7637d38-8b8e-4cbe-b045-0cea1013fbc1")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0111"
 			(at 300.99 24.13 0)
 			(effects
 				(font
@@ -45599,7 +45599,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -45742,7 +45742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb54fb25-8fe8-4e71-a655-56623756cc34")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0122"
 			(at 363.22 655.32 0)
 			(effects
 				(font
@@ -45791,7 +45791,7 @@
 		(instances
 			(project "TAITOSJ"
 				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830/70119680-cacf-46d5-9768-3ae58e75c86a"
-					(reference "#PWR?")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)

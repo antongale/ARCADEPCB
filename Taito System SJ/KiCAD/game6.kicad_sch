@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "0572bf23-4af8-4807-ba18-1a1cf0ba7186")
 	(paper "C")
+	(title_block
+		(company "ANTON GALE")
+	)
 	(lib_symbols
 		(symbol "Logic_Programmable:PAL16L8"
 			(pin_names

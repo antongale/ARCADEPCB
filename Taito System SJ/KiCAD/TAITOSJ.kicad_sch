@@ -262,6 +262,48 @@
 		)
 	)
 	(sheet
+		(at 186.69 188.595)
+		(size 41.91 27.305)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6fc72451-9f53-469a-bd1c-38914c38ced4")
+		(property "Sheetname" "Kick Start CPU"
+			(at 186.69 187.8834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "kscpu1.kicad_sch"
+			(at 186.69 216.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TAITOSJ"
+				(path "/c9398d89-67dd-4ff5-9367-82e2b6879830"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 63.5)
 		(size 38.1 25.4)
 		(exclude_from_sim no)
